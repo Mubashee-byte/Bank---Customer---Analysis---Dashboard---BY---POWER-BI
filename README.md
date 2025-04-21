@@ -13,23 +13,23 @@ Data Cleaning (Power Query)
 Visualizations (Bar Chart, Pie Chart, Line Graph, Table)
 
 # ◻️ Tasks Done:
-Count of Customer IDs by region and gender
+- Count of Customer IDs by region and gender
 
-Average balance by age and region
+- Average balance by age and region
 
-Sum of age and total balances per location
+- Sum of age and total balances per location
 
-Monthly customer distribution
+- Monthly customer distribution
 
-Job classification breakdown
+- Job classification breakdown
 
-Filtered views by quarter and day
+- Filtered views by quarter and day
 
 # ◻️ 📊 Analysis:
-England has the highest number of customers and total balance
+- England has the highest number of customers and total balance
 
-Average balance increases with age
+- Average balance increases with age
 
-Majority of customers are white-collar professionals
+- Majority of customers are white-collar professionals
 
-Highest customer activity is seen in Q3 and Q4
+- Highest customer activity is seen in Q3 and Q4
